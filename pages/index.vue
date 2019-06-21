@@ -7,6 +7,19 @@
     <div class="h-75" data-step="1"></div>
     <div class="h-75" data-step="2"></div>
     <div class="h-75" data-step="3"></div>
+    <div class="h-75" data-step="4"></div>
+    <div class="h-75" data-step="5"></div>
+    <div class="h-75" data-step="6"></div>
+    <div class="h-75" data-step="7"></div>
+    <div class="h-75" data-step="8"></div>
+    <div class="h-75" data-step="9"></div>
+    <div class="h-75" data-step="10"></div>
+    <div class="h-75" data-step="11"></div>
+    <div class="h-75" data-step="12"></div>
+    <div class="h-75" data-step="13"></div>
+    <div class="h-75" data-step="14"></div>
+    <div class="h-75" data-step="15"></div>
+    <div class="h-75" data-step="16"></div>
   </Scrollama>
 </template>
 
