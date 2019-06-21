@@ -12,7 +12,7 @@ const plugins = [
     require('autoprefixer')
 ]
 
-const whitelisted = []
+const whitelisted = ['html', 'body']
 
 if (process.env.NODE_ENV === 'production') {
     plugins.push(
