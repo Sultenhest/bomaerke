@@ -19,6 +19,7 @@ if (process.env.NODE_ENV === 'production') {
         purgecss({
             content: [
                 './layouts/**/*.vue',
+                './components/**/*.vue',
                 './pages/**/*.vue'
             ],
             whitelist: whitelisted,
