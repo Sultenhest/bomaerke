@@ -1,9 +1,6 @@
 <template>
   <Scrollama @step-enter="stepEnterHandler">
-    <div
-      id="img-container"
-      class="fixed h-screen w-screen bg-white text-black p-16"
-    >
+    <div id="img-container" class="fixed h-screen w-screen bg-white text-black">
       <ImageComponent :img-src="index" />
     </div>
 

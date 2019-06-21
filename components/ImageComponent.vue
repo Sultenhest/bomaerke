@@ -1,5 +1,5 @@
 <template>
-  <div class="h-full flex items-center justify-center">
+  <div class="h-full flex items-center justify-center md:mx-8">
     <img :src="require(`@/assets/img/` + imgSrc + `.png`)" />
   </div>
 </template>
